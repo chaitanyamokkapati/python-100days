@@ -6,4 +6,8 @@
 4. **String Manipulation**
 5. **Variables**
 
+# Errors
+1. Syntax Error
+2. Indentation Error
+
 ## End Project: Band Name Generator
