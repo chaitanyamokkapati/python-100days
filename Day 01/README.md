@@ -7,7 +7,9 @@
 5. **Variables**
 
 # Errors
-1. Syntax Error
-2. Indentation Error
+
+1. **Syntax Error**
+2. **Indentation Error**
+3. **Name Error**
 
 ## End Project: Band Name Generator
