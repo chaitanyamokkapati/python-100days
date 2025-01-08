@@ -5,4 +5,7 @@
 4. **Type Conversion**
 5. **f-Strings**
 
+# Errors
+1. **Type Error**
+
 # End Project - Tip Calculator
