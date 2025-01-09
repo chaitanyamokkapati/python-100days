@@ -1,4 +1,4 @@
 # Day 04 
-1. **Randomisation and Python Lists**
+1. **Randomisation and Python Lists.**
 
-# End Project - Rock, Paper, Scissors Game
+# End Project - Rock, Paper, Scissors Games
