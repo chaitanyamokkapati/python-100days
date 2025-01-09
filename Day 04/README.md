@@ -1,2 +1,4 @@
 # Day 04 
-This folder contains the Topics for Day 04. 
+1. **Randomisation and Python Lists**
+
+# End Project - Rock, Paper, Scissors Game
