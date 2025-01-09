@@ -23,3 +23,16 @@ print(f"Last item in List was : {statesInIndia[-1]}. ***")
 
 # .append function adds item at end of list.
 # .extend function adds multiple lists items at end of list.
+
+# Nested Lists
+fruits = ["Strawberries", "Grapes", "Peaches", "Pears", "Nectarines", "Apples", "Cherries", "Blueberries"]
+vegetables = ["Spinach", "Kale", "Collard greens", "Mustard greens", "Bell peppers", "Hot peppers", "Green beans"]
+
+# Lists with inn Lists
+
+fruitsVeg = [fruits, vegetables]
+print(" ")
+print("----" *5)
+print(type(fruitsVeg))
+print("----" *5)
+print(fruitsVeg)
