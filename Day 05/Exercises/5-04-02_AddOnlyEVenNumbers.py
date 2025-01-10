@@ -10,4 +10,8 @@ for number in range (1, 101):
     if number % 2 == 0:
         total_sum += number
     
+print("----" * 13)
+
 print("The sum of all even numbers from 1 to 100 is:", total_sum)
+
+print("----" * 13)
