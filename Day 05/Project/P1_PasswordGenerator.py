@@ -46,20 +46,14 @@ print(f"Easy Level : {password}")
 password_hard = []
 
 for character in range(1, no_letters + 1):
-    # or
-    # password += random.choice(mixed_letters)
     ran_char = random.choice(mixed_letters)
     password_hard += ran_char
 
 for character in range(1, no_symbols + 1):
-    # or
-    # password += random.choice(symbols)
     ran_char = random.choice(symbols)
     password_hard += ran_char
     
 for character in range(1, no_digits + 1):
-    # or
-    # password += random.choice(digits)
     ran_char = random.choice(digits)
     password_hard += ran_char
 
