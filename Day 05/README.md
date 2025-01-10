@@ -8,3 +8,5 @@
 1. ****
 
 # End Project - Password Generator.
+ - Re ordering list
+    - random.shuffle
