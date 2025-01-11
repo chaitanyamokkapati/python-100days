@@ -7,4 +7,4 @@
 
 # Errors
 
-# End Project -  Write a code that instruct robot thar can compplete any randomly generated mage.
+# End Project -  Write a code that instruct robot that can compplete any randomly generated mage.
