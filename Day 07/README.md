@@ -1,4 +1,6 @@
 # Day 07 
+1. **Break Down of Code into FLOW CHART**
+
 ## Recap
 1. **For & While Loops**
 2. **IF / ELSE**
